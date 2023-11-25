@@ -2,9 +2,7 @@ import base64
 import codecs
 import base36
 import base32_crockford
-import base64
 
-# Given encoded values
 encoded_values = [
     "SmluZ2xlcyhJX1dpTExf",
     "\\x4e\\x33\\x76\\x33\\x72\\x5f\\x47\\x31\\x76\\x33\\x5f",

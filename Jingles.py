@@ -1,7 +1,5 @@
 import base64
 import codecs
-import base36
-import base32_crockford
 
 encoded_values = [
     "SmluZ2xlcyhJX1dpTExf",
